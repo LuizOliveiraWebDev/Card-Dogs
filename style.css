@@ -1,0 +1,17 @@
+h1{
+    font-size: 60px;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+}
+#Tnav{
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+}
+.card h5{
+    color: rgb(0, 174, 255);
+    text-shadow: 1px 1px 1px black;
+}
+footer p{
+    color: aliceblue;
+    text-shadow: 1px 1px 1px black;
+}
